@@ -10,3 +10,19 @@ img {
     border-radius: 50%;
     border: 5px solid white;
 }
+
+p {
+    color: black;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+input {
+    border: 0;
+    padding: 10px;
+}
+
+input[type="submit"]{
+    background: red;
+    color: white;
+}
