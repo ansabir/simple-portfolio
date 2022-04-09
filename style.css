@@ -1,6 +1,12 @@
 body {
     text-align: center;
-    background: black;
+    background: url(./assets/tajmahal.jpg);
+    /* background-position: center; */
+    background-size: cover;
     color: white;
     font-family: 'Courier New', Courier, monospace;
+}
+img {
+    border-radius: 50%;
+    border: 5px solid white;
 }
